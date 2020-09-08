@@ -1,1 +1,23 @@
-Неешкаш Максим, А. Ангилоглу, TI-185
+$ git log
+commit 6244e805f8b44ea2cf94680ba4b6c8dd67e0f789 (HEAD -> main)
+Author: Maxim TI-185 <maximnees22@gmail.com>
+Date:   Tue Sep 8 17:58:53 2020 +0300
+
+    1
+
+commit caa41c6507c33930c47ab5d2fd8499d29d323a63
+Merge: d9c3461 f664b3c
+Author: Maxim <maximnees22@gmail.com>
+Date:   Tue Sep 8 17:00:07 2020 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit f664b3c1bf90c9411b92a670934381f8775cb7c2
+Author: maximnee <62404598+maximnee@users.noreply.github.com>
+Date:   Tue Sep 8 16:59:29 2020 +0300
+
+    Create FINAL.txt
+
+commit d9c34617390e3c047c6cca1dbefcd606406105cd
+Author: Maxim <maximnees22@gmail.com>
+Date:   Tue Sep 8 16:56:10 2020 +0300
