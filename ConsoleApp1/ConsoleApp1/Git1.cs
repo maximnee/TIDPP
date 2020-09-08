@@ -1,12 +1,8 @@
 
+using System;
 
-
-
-
-
-
-
-
+static void Main(string[] args)
+{
 
 
 Console.ForegroundColor = ConsoleColor.Green;
@@ -14,3 +10,4 @@ Console.ForegroundColor = ConsoleColor.Green;
             Console.ReadLine();
         }
     }
+
